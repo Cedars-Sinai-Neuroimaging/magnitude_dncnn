@@ -1,6 +1,6 @@
 # magnitude_dncnn
 
-Code used for denoising T2star-weighted susceptibility imaging. Provided model was trained on the whole cohort using 80:20 train/validation split.
+Code used for denoising T2star-weighted susceptibility MRI. Provided model was trained on the whole cohort using 80:20 train/validation split.
 
 ---
 
