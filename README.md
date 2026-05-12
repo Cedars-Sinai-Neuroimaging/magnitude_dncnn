@@ -55,7 +55,6 @@ magnitude_dncnn/
 ├── models.py           # definition for DnCNN model
 ├── utils.py            # functions for the program
 ├── denoise.py          # program to denoise a given nifti image
-├── models.py           # definition for DnCNN model
 ├── Quantitative_measures_w_wo_Denoise.m    # quantitative measures
 └── Quantmeasures_raincloud_plots.ipynb     # plots
 
