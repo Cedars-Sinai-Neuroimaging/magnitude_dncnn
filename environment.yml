@@ -1,4 +1,4 @@
-name: tensorflow
+name: magnitude_dncnn
 channels:
   - pytorch
   - nvidia
