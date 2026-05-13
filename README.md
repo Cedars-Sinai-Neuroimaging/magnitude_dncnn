@@ -2,7 +2,7 @@
 
 Program for denoising T2star-weighted susceptibility MRI. 
 
-Provided model was trained on the whole cohort using 80:20 train/validation split. Data can be made available upon request.
+Provided model was trained on the whole cohort using 80:20 train/validation split. Data can be shared for reasonable requests.
 
 ---
 
